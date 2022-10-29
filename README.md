@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
+<img src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47eo7z4zf2trkhbhk8taziwlgatnixa42089ehug2q&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### Hi there, I'm Emre. :blush:
 
