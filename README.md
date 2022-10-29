@@ -29,12 +29,12 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=emregozke&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=emregozke&show_icons=true&locale=en" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregozke&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregozke&show_icons=true&locale=en" >
 </details>
 
 [instagram]:https://www.instagram.com/emregozke/
