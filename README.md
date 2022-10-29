@@ -31,6 +31,7 @@
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=emregozke&show_icons=true&locale=en" >
 </details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emregozke&show_icons=true&locale=en" alt="emregozke" /></p>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
