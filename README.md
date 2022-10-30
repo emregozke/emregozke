@@ -10,6 +10,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+<br />
 <p align="left">
 <a href="mailto:emregozke@yahoo.com.tr"><img alt="Email" src="https://img.shields.io/badge/Email-emregozke@yahoo.com.tr-blue?style=flat&logo=gmail"></a>
 </p>
