@@ -8,6 +8,7 @@
 
 ### Reach out to me
 
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 <p align="left">
 <a href="mailto:emregozke@yahoo.com.tr"><img alt="Email" src="https://img.shields.io/badge/Email-emregozke@yahoo.com.tr-blue?style=flat&logo=gmail"></a>
@@ -37,5 +38,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregozke&show_icons=true&locale=en" >
 </details>
 
+[linkedin]:https://www.linkedin.com/in/emre-g%C3%B6zke-8510b043/
 [instagram]:https://www.instagram.com/emregozke/
 
